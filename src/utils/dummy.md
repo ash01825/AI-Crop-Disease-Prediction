@@ -1,0 +1,1 @@
+Jo functions sabke use aayenge example kisi ko lagta waisa kuch create and add idhar hoga
