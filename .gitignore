@@ -15,3 +15,4 @@ data/processed/
 # IDE and editor settings
 .vscode/
 .idea/
+.DS_Store
